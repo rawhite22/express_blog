@@ -1,0 +1,14 @@
+port numbers are like 'doors' into a computer.
+
+status codes: 
+ - describes type of response sent to browser
+ - 200 ok
+ - 301 resource moved
+ - 404 not found
+ - 500 internal service error
+
+ 100 range - information responses
+ 200 range - success codes 
+ 300 range - codes for redirects
+ 400 range - user or client error codes
+ 500 range - server error codes
